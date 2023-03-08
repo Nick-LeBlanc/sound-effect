@@ -34,8 +34,8 @@ let img2;
 let boolean = true;
 
 function preload() {
-  img1 = loadImage('../megaman.png');
-  img2 = loadImage('../penguin.png');
+  img1 = loadImage('./megaman.png');
+  img2 = loadImage('./penguin.png');
 }
 
 function setup() {
